@@ -1,0 +1,8 @@
+(module kl_RJ12_LEGO (layer F.Cu) (tedit 5ACC626C)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value kl_RJ12_LEGO (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

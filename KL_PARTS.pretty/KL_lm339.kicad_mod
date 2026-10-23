@@ -1,0 +1,8 @@
+(module KL_lm339 (layer F.Cu) (tedit 557E769A)
+  (fp_text reference KL_lm339 (at 3.302 4.064) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at -2.794 4.064) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
